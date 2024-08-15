@@ -1,0 +1,12 @@
+{
+	"Name": "John Doe",
+	"Age": 30,
+	"Contact": "1234567890",
+	"Company": "Google",
+	"Address": {
+		"City": "Bangalore",
+		"State": "Karnataka",
+		"Country": "India",
+		"Pincode": 560001
+	}
+}

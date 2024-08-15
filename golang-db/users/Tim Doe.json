@@ -1,0 +1,12 @@
+{
+	"Name": "Tim Doe",
+	"Age": 25,
+	"Contact": "0987654322",
+	"Company": "Microsoft",
+	"Address": {
+		"City": "Hyderabad",
+		"State": "Telangana",
+		"Country": "India",
+		"Pincode": 500007
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"Name": "Tom Doe",
+	"Age": 30,
+	"Contact": "1234567891",
+	"Company": "Google",
+	"Address": {
+		"City": "Bangalore",
+		"State": "Karnataka",
+		"Country": "India",
+		"Pincode": 560002
+	}
+}

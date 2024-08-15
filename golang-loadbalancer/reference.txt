@@ -1,0 +1,3 @@
+https://www.geeksforgeeks.org/load-balancing-algorithms/#11-round-robin-load-balancing-algorithms
+
+https://www.youtube.com/watch?v=ZSDYx9eOiqo&list=PL5dTjWUk_cPYztKD7WxVFluHvpBNM28N9&index=20&pp=iAQB

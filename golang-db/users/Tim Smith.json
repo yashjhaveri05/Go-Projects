@@ -1,0 +1,12 @@
+{
+	"Name": "Tim Smith",
+	"Age": 28,
+	"Contact": "0987612344",
+	"Company": "Amazon",
+	"Address": {
+		"City": "Mumbai",
+		"State": "Maharashtra",
+		"Country": "India",
+		"Pincode": 400008
+	}
+}
